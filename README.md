@@ -1,0 +1,1 @@
+The COVID-19 Data Analysis project aims to collect, process, and analyze COVID-19 datasets to identify trends, patterns, and insights related to infection rates, vaccination progress, mortality rates, and geographic spread. The project leverages data analytics, visualization, and machine learning to provide meaningful insights for decision-making
